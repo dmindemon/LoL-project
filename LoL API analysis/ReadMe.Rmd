@@ -2,4 +2,4 @@
 - "RiotConsts.py" creates two dictionaries, which store the genral url and unique part of url.
 - "RiotAPI.py" creates a class, which can take API key and return the JSON data from API.
 - "main.py" uses the module "RiotAPI", and transfers the JSON data into CSV data.
-- The CSV data is stored in file "data".
+- The CSV data is stored in the file "data".
