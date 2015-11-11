@@ -2,7 +2,7 @@
 ## Web scraping
 This is the project for Data Incubator. Scrape the data from LoL official website. Get the data about champions' basic information. 
 
-For scraping process, used the {rvest} R package as basic tool, and the Chrome plug-in - SelectorGadget to get the title of each information in html code.
+For scraping process, used the {rvest} R package as basic tool, and the Chrome plug-in "SelectorGadget" to get the title of each information in html code.
 
 ## LoL API analysis
 This is the project using Riot API for analysis. Here are some links inspired me:
