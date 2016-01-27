@@ -1,0 +1,262 @@
+sell,stats,name,purchasable,base,total,id
+735,{},Skirmisher's Sabre,True,350,1050,3715
+1085,"{u'FlatMovementSpeedMod': 45.0, u'PercentAttackSpeedMod': 0.3}",Enchantment: Homeguard,True,450,1550,1304
+875,{u'FlatMovementSpeedMod': 65.0},Enchantment: Alacrity,True,450,1250,1306
+875,{u'FlatMovementSpeedMod': 65.0},Enchantment: Captain,True,450,1250,1307
+735,{},Tracker's Knife,True,350,1050,3711
+1085,"{u'FlatMovementSpeedMod': 45.0, u'PercentAttackSpeedMod': 0.3}",Enchantment: Alacrity,True,450,1550,1301
+1085,"{u'FlatMovementSpeedMod': 45.0, u'PercentAttackSpeedMod': 0.3}",Enchantment: Captain,True,450,1550,1302
+875,{u'FlatMovementSpeedMod': 65.0},Enchantment: Furor,True,450,1250,1305
+875,{u'FlatPhysicalDamageMod': 30.0},Tiamat,True,225,1250,3077
+875,{u'FlatMovementSpeedMod': 65.0},Enchantment: Distortion,True,450,1250,1308
+875,{u'FlatMovementSpeedMod': 65.0},Enchantment: Homeguard,True,450,1250,1309
+4060,"{u'FlatMPPoolMod': 1000.0, u'FlatMagicDamageMod': 80.0}",Seraph's Embrace,False,2700,2700,3048
+200,{},Elixir of Iron,True,500,500,2138
+980,"{u'FlatMPPoolMod': 200.0, u'FlatMagicDamageMod': 20.0}",Mejai's Soulstealer,True,1000,1400,3041
+1085,"{u'FlatMovementSpeedMod': 45.0, u'PercentAttackSpeedMod': 0.3}",Enchantment: Furor,True,450,1550,1300
+3220,"{u'FlatMPPoolMod': 1000.0, u'FlatPhysicalDamageMod': 25.0}",Muramana,False,2200,2200,3043
+0,{},Soul Anchor (Trinket),False,0,0,3345
+875,"{u'FlatPhysicalDamageMod': 15.0, u'FlatHPPoolMod': 200.0}",Phage,True,500,1250,3044
+770,"{u'FlatMovementSpeedMod': 45.0, u'FlatArmorMod': 30.0}",Ninja Tabi,True,500,1100,3047
+1890,"{u'PercentAttackSpeedMod': 0.4, u'FlatCritChanceMod': 0.3}",Phantom Dancer,True,900,2700,3046
+160,"{u'FlatHPPoolMod': 60.0, u'FlatMPRegenMod': 0.6, u'FlatMagicDamageMod': 15.0}",Doran's Ring (Showdown),True,400,400,1076
+560,{u'FlatPhysicalDamageMod': 15.0},Executioner's Calling,True,450,800,3123
+176,"{u'FlatHPPoolMod': 100.0, u'FlatHPRegenMod': 2.0}",Doran's Shield (Showdown),True,440,440,1074
+176,"{u'FlatPhysicalDamageMod': 7.0, u'FlatHPPoolMod': 70.0, u'PercentLifeStealMod': 0.03}",Doran's Blade (Showdown),True,440,440,1075
+1750,"{u'FlatPhysicalDamageMod': 30.0, u'FlatMagicDamageMod': 40.0}",Guinsoo's Rageblade,True,775,2500,3124
+1890,"{u'FlatMPPoolMod': 500.0, u'FlatArmorMod': 65.0}",Iceborn Gauntlet,True,650,2700,3025
+525,{u'PercentAttackSpeedMod': 0.15},Kircheis Shard,True,450,750,2015
+200,{},Corrupting Potion,True,350,500,2033
+20,{},Total Biscuit of Rejuvenation,False,50,50,2010
+160,{},Hunter's Potion,True,250,400,2032
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatArmorMod': 30.0}",Enchantment: Captain,True,450,1550,1317
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatArmorMod': 30.0}",Enchantment: Alacrity,True,450,1550,1316
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatArmorMod': 30.0}",Enchantment: Furor,True,450,1550,1315
+1085,{u'FlatMovementSpeedMod': 45.0},Enchantment: Homeguard,True,450,1550,1314
+1085,{u'FlatMovementSpeedMod': 45.0},Enchantment: Distortion,True,450,1550,1313
+1085,{u'FlatMovementSpeedMod': 45.0},Enchantment: Captain,True,450,1550,1312
+1085,{u'FlatMovementSpeedMod': 45.0},Enchantment: Alacrity,True,450,1550,1311
+1085,{u'FlatMovementSpeedMod': 45.0},Enchantment: Furor,True,450,1550,1310
+3290,{},Enchantment: Sated Devourer,False,2250,2250,3931
+3290,{},Enchantment: Sated Devourer,False,2250,2250,3930
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatArmorMod': 30.0}",Enchantment: Homeguard,True,450,1550,1319
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatArmorMod': 30.0}",Enchantment: Distortion,True,450,1550,1318
+1855,{u'FlatMagicDamageMod': 80.0},Void Staff,True,1365,2650,3135
+770,{u'FlatPhysicalDamageMod': 20.0},Serrated Dirk,True,400,1100,3134
+1890,"{u'FlatSpellBlockMod': 45.0, u'PercentAttackSpeedMod': 0.5}",Dervish Blade,True,200,2700,3137
+380,"{u'FlatPhysicalDamageMod': 16.0, u'PercentAttackSpeedMod': 0.15}",Prospector's Blade,True,950,950,1062
+700,"{u'FlatMPPoolMod': 250.0, u'FlatArmorMod': 25.0}",Glacial Shroud,True,350,1000,3024
+770,{u'FlatPhysicalDamageMod': 25.0},Caulfield's Warhammer,True,400,1100,3133
+560,{u'FlatArmorMod': 40.0},Chain Vest,True,500,800,1031
+2590,"{u'FlatSpellBlockMod': 35.0, u'FlatPhysicalDamageMod': 75.0, u'PercentLifeStealMod': 0.1}",Mercurial Scimitar,True,625,3700,3139
+560,{u'FlatCritChanceMod': 0.2},Cloak of Agility,True,800,800,1018
+315,{},Enchantment: Distortion,True,450,450,3243
+315,{},Enchantment: Captain,True,450,450,3242
+315,{},Enchantment: Alacrity,True,450,450,3241
+315,{},Enchantment: Furor,True,450,450,3240
+840,"{u'FlatPhysicalDamageMod': 15.0, u'FlatHPPoolMod': 150.0}",Jaurim's Fist,True,450,1200,3052
+2520,"{u'FlatPhysicalDamageMod': 65.0, u'FlatCritChanceMod': 0.2}",Infinity Edge,True,625,3600,3031
+315,{},Enchantment: Homeguard,True,450,450,3244
+700,{u'FlatPhysicalDamageMod': 10.0},Giant Slayer,True,650,1000,3034
+910,{u'FlatPhysicalDamageMod': 25.0},Last Whisper,True,425,1300,3035
+200,{},Elixir of Wrath,True,500,500,2140
+1872,"{u'FlatMPPoolMod': 250.0, u'FlatMagicDamageMod': 40.0}",Enchantment: Runeglaive,True,140,2675,1410
+1715,{u'PercentAttackSpeedMod': 0.4},Enchantment: Devourer,True,400,2450,1411
+1837,{u'FlatPhysicalDamageMod': 60.0},Enchantment: Warrior,True,475,2625,1412
+1837,{u'FlatHPPoolMod': 400.0},Enchantment: Cinderhulk,True,475,2625,1413
+1872,"{u'FlatMPPoolMod': 250.0, u'FlatMagicDamageMod': 40.0}",Enchantment: Runeglaive,True,140,2675,1414
+380,"{u'FlatMPRegenMod': 1.2, u'FlatMagicDamageMod': 35.0}",Prospector's Ring,True,950,950,1063
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatSpellBlockMod': 25.0}",Enchantment: Captain,True,450,1550,1322
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatSpellBlockMod': 25.0}",Enchantment: Distortion,True,450,1550,1323
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatSpellBlockMod': 25.0}",Enchantment: Furor,True,450,1550,1320
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatSpellBlockMod': 25.0}",Enchantment: Alacrity,True,450,1550,1321
+180,{u'FlatPhysicalDamageMod': 5.0},Cull,True,450,450,1083
+875,{u'FlatMovementSpeedMod': 105.0},Enchantment: Captain,True,450,1250,1327
+1085,"{u'FlatMovementSpeedMod': 45.0, u'FlatSpellBlockMod': 25.0}",Enchantment: Homeguard,True,450,1550,1324
+875,{u'FlatMovementSpeedMod': 105.0},Enchantment: Furor,True,450,1250,1325
+875,{u'FlatMovementSpeedMod': 105.0},Enchantment: Distortion,True,450,1250,1328
+875,{u'FlatMovementSpeedMod': 105.0},Enchantment: Homeguard,True,450,1250,1329
+910,{u'FlatSpellBlockMod': 30.0},Quicksilver Sash,True,850,1300,3140
+2240,{u'FlatPhysicalDamageMod': 65.0},Youmuu's Ghostblade,True,1000,3200,3142
+2100,"{u'FlatArmorMod': 60.0, u'FlatHPPoolMod': 450.0}",Randuin's Omen,True,900,3000,3143
+1155,"{u'FlatPhysicalDamageMod': 25.0, u'PercentLifeStealMod': 0.1}",Bilgewater Cutlass,True,400,1650,3144
+840,{u'FlatMagicDamageMod': 40.0},Hextech Revolver,True,330,1200,3145
+2380,"{u'FlatPhysicalDamageMod': 40.0, u'FlatMagicDamageMod': 80.0}",Hextech Gunblade,True,550,3400,3146
+4270,"{u'FlatMPPoolMod': 1000.0, u'FlatMagicDamageMod': 80.0}",Seraph's Embrace,False,3000,3000,3040
+1103,{u'FlatHPPoolMod': 400.0},Enchantment: Cinderhulk,True,475,1575,3672
+1138,"{u'FlatMPPoolMod': 250.0, u'FlatMagicDamageMod': 40.0}",Enchantment: Runeglaive,True,140,1625,3673
+1890,{u'FlatPhysicalDamageMod': 40.0},Mortal Reminder,True,600,2700,3033
+140,{u'FlatHPPoolMod': 75.0},Relic Shield,True,350,350,3302
+140,{u'FlatMagicDamageMod': 5.0},Spellthief's Edge,True,350,350,3303
+980,{u'PercentAttackSpeedMod': 0.4},Enchantment: Devourer,True,400,1400,3674
+140,{},Ancient Coin,True,350,350,3301
+3220,"{u'FlatMPPoolMod': 1000.0, u'FlatPhysicalDamageMod': 25.0}",Muramana,False,2200,2200,3042
+1890,{u'FlatPhysicalDamageMod': 40.0},Lord Dominik's Regards,True,400,2700,3036
+2100,"{u'FlatMPPoolMod': 400.0, u'FlatHPPoolMod': 300.0, u'FlatMagicDamageMod': 80.0}",Rod of Ages (Crystal Scar),True,950,3000,3029
+700,{u'FlatSpellBlockMod': 25.0},Chalice of Harmony,True,300,1000,3028
+880,"{u'FlatHPPoolMod': 200.0, u'FlatMagicDamageMod': 25.0}",Eye of the Watchers,True,550,2200,2301
+1160,"{u'FlatSpellBlockMod': 60.0, u'FlatArmorMod': 60.0}",Guardian Angel,True,1380,2900,3026
+880,{u'FlatHPPoolMod': 500.0},Eye of the Equinox,True,550,2200,2303
+880,{u'FlatHPPoolMod': 200.0},Eye of the Oasis,True,550,2200,2302
+2170,"{u'FlatPhysicalDamageMod': 40.0, u'FlatHPPoolMod': 650.0}",Frozen Mallet,True,625,3100,3022
+770,{u'FlatMovementSpeedMod': 45.0},Sorcerer's Shoes,True,800,1100,3020
+1837,{u'FlatHPPoolMod': 400.0},Enchantment: Cinderhulk,True,475,2625,1409
+1837,{u'FlatPhysicalDamageMod': 60.0},Enchantment: Warrior,True,475,2625,1408
+1103,{u'FlatPhysicalDamageMod': 60.0},Enchantment: Warrior,True,475,1575,3671
+875,{u'FlatMovementSpeedMod': 45.0},Enchantment: Homeguard,True,450,1250,1334
+1715,{u'PercentAttackSpeedMod': 0.4},Enchantment: Devourer,True,400,2450,1403
+1872,"{u'FlatMPPoolMod': 250.0, u'FlatMagicDamageMod': 40.0}",Enchantment: Runeglaive,True,140,2675,1402
+1837,{u'FlatHPPoolMod': 400.0},Enchantment: Cinderhulk,True,475,2625,1401
+1837,{u'FlatPhysicalDamageMod': 60.0},Enchantment: Warrior,True,475,2625,1400
+1890,"{u'FlatArmorMod': 45.0, u'FlatHPPoolMod': 500.0}",Sunfire Cape,True,800,2700,3068
+700,{u'FlatHPPoolMod': 380.0},Giant's Belt,True,600,1000,1011
+2380,{u'FlatPhysicalDamageMod': 65.0},Death's Dance,True,525,3400,3812
+2520,"{u'FlatPhysicalDamageMod': 50.0, u'FlatHPPoolMod': 450.0}",Titanic Hydra,True,750,3600,3748
+875,{u'FlatMovementSpeedMod': 45.0},Enchantment: Alacrity,True,450,1250,1331
+1215,"{u'FlatSpellBlockMod': 25.0, u'FlatMagicDamageMod': 40.0}",Staff of Flowing Water,True,300,1735,3744
+1960,"{u'FlatArmorMod': 50.0, u'FlatHPPoolMod': 600.0}",Dead Man's Plate,True,1000,2800,3742
+875,{u'FlatMovementSpeedMod': 45.0},Enchantment: Furor,True,450,1250,1330
+875,{u'FlatMovementSpeedMod': 45.0},Enchantment: Distortion,True,450,1250,1333
+875,{u'FlatMovementSpeedMod': 45.0},Enchantment: Captain,True,450,1250,1332
+2380,"{u'FlatPhysicalDamageMod': 25.0, u'PercentAttackSpeedMod': 0.4, u'PercentLifeStealMod': 0.1}",Blade of the Ruined King,True,750,3400,3153
+1610,{u'FlatMagicDamageMod': 80.0},Will of the Ancients,True,300,2300,3152
+2240,"{u'FlatHPPoolMod': 300.0, u'FlatMagicDamageMod': 80.0}",Liandry's Torment,True,750,3200,3151
+2450,"{u'FlatArmorMod': 45.0, u'FlatMagicDamageMod': 100.0}",Zhonya's Hourglass,True,1050,3500,3157
+2275,"{u'FlatSpellBlockMod': 50.0, u'FlatPhysicalDamageMod': 55.0}",Maw of Malmortius,True,850,3250,3156
+910,"{u'FlatSpellBlockMod': 35.0, u'FlatPhysicalDamageMod': 20.0}",Hexdrinker,True,500,1300,3155
+586,"{u'FlatPhysicalDamageMod': 12.0, u'PercentAttackSpeedMod': 0.3}",Wriggle's Lantern,True,215,1465,3154
+572,"{u'FlatPhysicalDamageMod': 15.0, u'PercentAttackSpeedMod': 0.3}",Grez's Spectral Lantern,True,180,1430,3159
+560,{u'FlatMovementSpeedMod': 45.0},Ionian Boots of Lucidity,True,500,800,3158
+0,{},Diet Poro-Snax,False,0,0,2054
+2520,"{u'FlatPhysicalDamageMod': 65.0, u'FlatCritChanceMod': 0.2}",Essence Reaver,True,400,3600,3508
+100,{},Oracle's Extract,True,250,250,2047
+720,{u'FlatHPPoolMod': 500.0},Ruby Sightstone,True,600,1800,2045
+30,{},Vision Ward,True,75,75,2043
+0,{},Golden Transcendence,False,0,0,3460
+840,"{u'FlatMPPoolMod': 300.0, u'FlatHPPoolMod': 225.0}",Catalyst the Protector,True,450,1200,3010
+1540,{u'FlatMagicDamageMod': 40.0},Ardent Censer,True,800,2200,3504
+1715,{u'PercentAttackSpeedMod': 0.4},Enchantment: Devourer,True,400,2450,1415
+880,{u'FlatMagicDamageMod': 50.0},Frost Queen's Claim,True,550,2200,3092
+840,"{u'FlatPhysicalDamageMod': 20.0, u'FlatCritChanceMod': 0.1}",Wicked Hatchet,True,450,1200,3122
+2450,"{u'FlatArmorMod': 45.0, u'FlatMagicDamageMod': 100.0}",Wooglet's Witchcap,True,1050,3500,3090
+1960,"{u'FlatSpellBlockMod': 40.0, u'PercentAttackSpeedMod': 0.4}",Wit's End,True,1050,2800,3091
+340,{},Nomad's Medallion,True,225,850,3096
+340,{u'FlatHPPoolMod': 175.0},Targon's Brace,True,350,850,3097
+1750,"{u'PercentMovementSpeedMod': 0.08, u'PercentAttackSpeedMod': 0.3, u'FlatCritChanceMod': 0.3}",Rapid Firecannon,True,550,2500,3094
+105,{},Rejuvenation Bead,True,150,150,1006
+340,{u'FlatMagicDamageMod': 15.0},Frostfang,True,375,850,3098
+88,{},Faerie Charm,True,125,125,1004
+210,{u'FlatMovementSpeedMod': 25.0},Boots of Speed,True,300,300,1001
+770,{u'FlatHPPoolMod': 300.0},Bami's Cinder,True,700,1100,3751
+0,{},The Black Spear,True,0,0,3599
+455,{u'FlatHPPoolMod': 200.0},Crystalline Bracer,True,100,650,3801
+1820,"{u'FlatMPPoolMod': 300.0, u'FlatHPPoolMod': 500.0}",Righteous Glory,True,750,2600,3800
+320,{u'FlatHPPoolMod': 150.0},Sightstone,True,400,800,2049
+1680,"{u'FlatMPPoolMod': 250.0, u'FlatPhysicalDamageMod': 25.0}",Manamune,True,775,2400,3004
+2170,"{u'FlatMPPoolMod': 250.0, u'FlatMagicDamageMod': 80.0}",Archangel's Staff (Crystal Scar),True,1100,3100,3007
+770,"{u'FlatMovementSpeedMod': 45.0, u'PercentAttackSpeedMod': 0.3}",Berserker's Greaves,True,500,1100,3006
+1645,"{u'FlatSpellBlockMod': 50.0, u'FlatMagicDamageMod': 70.0}",Abyssal Scepter,True,780,2350,3001
+2170,"{u'FlatMPPoolMod': 250.0, u'FlatMagicDamageMod': 80.0}",Archangel's Staff,True,1100,3100,3003
+735,{u'FlatMPPoolMod': 250.0},Sheen,True,700,1050,3057
+875,{u'FlatMovementSpeedMod': 105.0},Enchantment: Alacrity,True,450,1250,1326
+1785,{u'FlatMagicDamageMod': 80.0},Morellonomicon,True,765,2550,3165
+560,{u'FlatMovementSpeedMod': 65.0},Boots of Swiftness,True,500,800,3009
+1680,"{u'FlatMPPoolMod': 250.0, u'FlatPhysicalDamageMod': 25.0}",Manamune (Crystal Scar),True,775,2400,3008
+280,"{u'FlatMPPoolMod': 100.0, u'FlatMagicDamageMod': 15.0}",The Dark Seal,True,400,400,1082
+700,{u'FlatHPPoolMod': 200.0},Guardian's Horn,True,450,1000,2051
+0,{},Explorer's Ward,False,0,0,2050
+840,{u'FlatArmorMod': 40.0},Raptor Cloak,True,250,1200,2053
+0,{},Poro-Snax,False,0,0,2052
+770,"{u'FlatSpellBlockMod': 35.0, u'FlatHPPoolMod': 200.0}",Spectre's Cowl,True,250,1100,3211
+0,{},Oracle Alteration,True,0,0,3364
+1890,"{u'FlatSpellBlockMod': 60.0, u'FlatArmorMod': 60.0}",Zz'Rot Portal,True,780,2700,3512
+175,{},Greater Stealth Totem (Trinket),False,250,250,3361
+175,{},Greater Vision Totem (Trinket),False,250,250,3362
+0,{},Farsight Alteration,True,0,0,3363
+910,{u'FlatPhysicalDamageMod': 40.0},B. F. Sword,True,1300,1300,1038
+2520,"{u'FlatPhysicalDamageMod': 65.0, u'FlatCritChanceMod': 0.2}",Lord Van Damm's Pillager,True,725,3600,3104
+2660,{u'FlatMagicDamageMod': 120.0},Rabadon's Deathcap,True,1265,3800,3089
+1750,"{u'PercentMovementSpeedMod': 0.05, u'PercentAttackSpeedMod': 0.4, u'FlatCritChanceMod': 0.3}",Runaan's Hurricane,True,300,2500,3085
+1785,{u'FlatHPPoolMod': 800.0},Overlord's Bloodmail,True,900,2550,3084
+1750,"{u'PercentMovementSpeedMod': 0.05, u'PercentAttackSpeedMod': 0.35, u'FlatCritChanceMod': 0.3}",Statikk Shiv,True,550,2500,3087
+840,"{u'PercentAttackSpeedMod': 0.15, u'FlatCritChanceMod': 0.2}",Zeal,True,500,1200,3086
+245,{u'FlatPhysicalDamageMod': 10.0},Long Sword,True,350,350,1036
+613,{u'FlatPhysicalDamageMod': 25.0},Pickaxe,True,875,875,1037
+1995,{u'FlatHPPoolMod': 850.0},Warmog's Armor,True,550,2850,3083
+770,{u'FlatArmorMod': 40.0},Warden's Mail,True,500,1100,3082
+700,{},The Hex Core mk-1,True,1000,1000,3196
+210,{u'PercentAttackSpeedMod': 0.12},Dagger,True,300,300,1042
+525,{u'FlatMPPoolMod': 250.0},Tear of the Goddess,True,275,750,3070
+2450,"{u'FlatPhysicalDamageMod': 55.0, u'FlatHPPoolMod': 300.0}",The Black Cleaver,True,1150,3500,3071
+2590,{u'FlatPhysicalDamageMod': 75.0},The Bloodthirster,True,1150,3700,3072
+525,{u'FlatMPPoolMod': 250.0},Tear of the Goddess (Crystal Scar),True,275,750,3073
+2520,"{u'FlatPhysicalDamageMod': 75.0, u'PercentLifeStealMod': 0.12}",Ravenous Hydra,True,1100,3600,3074
+1645,{u'FlatArmorMod': 100.0},Thornmail,True,1250,2350,3075
+315,{u'FlatSpellBlockMod': 25.0},Null-Magic Mantle,True,450,450,1033
+2660,"{u'PercentMovementSpeedMod': 0.05, u'FlatMPPoolMod': 250.0, u'FlatPhysicalDamageMod': 25.0, u'FlatHPPoolMod': 250.0, u'PercentAttackSpeedMod': 0.15, u'FlatCritChanceMod': 0.2}",Trinity Force,True,300,3800,3078
+1750,"{u'FlatSpellBlockMod': 50.0, u'FlatArmorMod': 50.0, u'FlatMagicDamageMod': 50.0}",Moonflair Spellblade,True,580,2500,3170
+2240,"{u'PercentMovementSpeedMod': 0.1, u'FlatMagicDamageMod': 100.0}",Luden's Echo,True,1100,3200,3285
+1960,"{u'FlatSpellBlockMod': 25.0, u'FlatMagicDamageMod': 60.0}",Athene's Unholy Grail,True,565,2800,3174
+245,{u'FlatMPPoolMod': 250.0},Sapphire Crystal,True,350,350,1027
+595,{u'FlatMagicDamageMod': 40.0},Blasting Wand,True,850,850,1026
+0,{},Prototype Hex Core,False,0,0,3200
+1085,"{u'FlatMovementSpeedMod': 45.0, u'PercentAttackSpeedMod': 0.3}",Enchantment: Distortion,True,450,1550,1303
+245,{},Hunter's Talisman,True,350,350,1039
+210,{u'FlatArmorMod': 15.0},Cloth Armor,True,300,300,1029
+280,{u'FlatHPPoolMod': 150.0},Ruby Crystal,True,400,400,1028
+0,{},Fire at Will,True,0,0,3901
+0,{},Death's Daughter,True,0,0,3902
+0,{},Raise Morale,True,0,0,3903
+2100,"{u'FlatMPPoolMod': 400.0, u'FlatHPPoolMod': 300.0, u'FlatMagicDamageMod': 80.0}",Rod of Ages,True,950,3000,3027
+2030,"{u'FlatSpellBlockMod': 20.0, u'FlatHPPoolMod': 200.0, u'FlatMagicDamageMod': 60.0}",Banner of Command,True,600,2900,3060
+560,{u'FlatHPPoolMod': 200.0},Kindlegem,True,400,800,3067
+1960,"{u'FlatSpellBlockMod': 70.0, u'FlatHPPoolMod': 500.0}",Spirit Visage,True,900,2800,3065
+880,{},Talisman of Ascension,True,800,2200,3069
+1610,{u'FlatSpellBlockMod': 35.0},Mikael's Crucible,True,750,2300,3222
+280,{u'FlatCritChanceMod': 0.1},Brawler's Gloves,True,400,400,1051
+0,{},Hextech Sweeper,False,0,0,3348
+630,"{u'FlatPhysicalDamageMod': 15.0, u'PercentLifeStealMod': 0.1}",Vampiric Scepter,True,550,900,1053
+560,{u'FlatMagicDamageMod': 25.0},Fiendish Codex,True,365,800,3108
+180,"{u'FlatPhysicalDamageMod': 8.0, u'FlatHPPoolMod': 80.0, u'PercentLifeStealMod': 0.03}",Doran's Blade,True,450,450,1055
+160,"{u'FlatHPPoolMod': 60.0, u'FlatMagicDamageMod': 15.0}",Doran's Ring,True,400,400,1056
+504,{u'FlatSpellBlockMod': 40.0},Negatron Cloak,True,270,720,1057
+875,{u'FlatMagicDamageMod': 60.0},Needlessly Large Rod,True,1250,1250,1058
+1050,"{u'FlatSpellBlockMod': 20.0, u'FlatHPPoolMod': 200.0}",Aegis of the Legion,True,400,1500,3105
+420,{u'PercentAttackSpeedMod': 0.15},Madred's Razors,True,300,600,3106
+0,{},Sweeping Lens (Trinket),True,0,0,3341
+2240,"{u'PercentMovementSpeedMod': 0.07, u'FlatMPPoolMod': 250.0, u'FlatMagicDamageMod': 80.0}",Lich Bane,True,450,3200,3100
+840,{u'PercentAttackSpeedMod': 0.5},Stinger,True,600,1200,3101
+2030,"{u'FlatSpellBlockMod': 70.0, u'FlatHPPoolMod': 500.0}",Banshee's Veil,True,1150,2900,3102
+200,{},Elixir of Sorcery,True,500,500,2139
+1820,"{u'FlatPhysicalDamageMod': 55.0, u'FlatHPPoolMod': 275.0}",Entropy,True,475,2600,3184
+1645,"{u'FlatPhysicalDamageMod': 30.0, u'FlatCritChanceMod': 0.3}",The Lightbringer,True,350,2350,3185
+1505,"{u'FlatMPPoolMod': 250.0, u'FlatArmorMod': 25.0, u'FlatHPPoolMod': 225.0}",Hextech Sweeper,True,350,2150,3187
+1680,"{u'FlatMPPoolMod': 350.0, u'FlatHPPoolMod': 350.0, u'FlatSpellBlockMod': 50.0}",Odyn's Veil,True,480,2400,3180
+1680,"{u'FlatPhysicalDamageMod': 45.0, u'PercentLifeStealMod': 0.1}",Sanguine Blade,True,625,2400,3181
+60,{},Refillable Potion,True,150,150,2031
+305,{u'FlatMagicDamageMod': 20.0},Amplifying Tome,True,435,435,1052
+1855,"{u'FlatArmorMod': 50.0, u'FlatHPPoolMod': 300.0}",Ohmwrecker,True,650,2650,3056
+180,"{u'FlatHPPoolMod': 80.0, u'FlatHPRegenMod': 1.2}",Doran's Shield,True,450,450,1054
+3290,{},Enchantment: Sated Devourer,False,2250,2250,3932
+735,{},Stalker's Blade,True,350,1050,3706
+1890,{u'FlatHPPoolMod': 500.0},Sterak's Gage,True,1100,2700,3053
+1645,"{u'FlatMPPoolMod': 250.0, u'FlatArmorMod': 30.0, u'FlatMagicDamageMod': 50.0}",Zeke's Harbinger,True,480,2350,3050
+700,{u'PercentAttackSpeedMod': 0.25},Recurve Bow,True,400,1000,1043
+880,{u'FlatHPPoolMod': 450.0},Face of the Mountain,True,550,2200,3401
+245,{},Hunter's Machete,True,350,350,1041
+560,{u'FlatMovementSpeedMod': 105.0},Boots of Mobility,True,500,800,3117
+2240,"{u'FlatHPPoolMod': 400.0, u'FlatMagicDamageMod': 100.0}",Rylai's Crystal Scepter,True,515,3200,3116
+2100,"{u'FlatMagicDamageMod': 80.0, u'PercentAttackSpeedMod': 0.5}",Nashor's Tooth,True,1000,3000,3115
+385,{},Forbidden Idol,True,300,550,3114
+595,{u'FlatMagicDamageMod': 30.0},Aether Wisp,True,415,850,3113
+1407,{u'FlatSpellBlockMod': 70.0},Orb of Winter,True,990,2010,3112
+770,"{u'FlatMovementSpeedMod': 45.0, u'FlatSpellBlockMod': 25.0}",Mercury's Treads,True,350,1100,3111
+1960,"{u'FlatMPPoolMod': 400.0, u'FlatArmorMod': 90.0}",Frozen Heart,True,700,2800,3110
+1400,{},The Hex Core mk-2,True,1000,2000,3197
+20,{},Health Potion,True,50,50,2003
+1120,"{u'FlatHPPoolMod': 200.0, u'FlatMagicDamageMod': 25.0}",Haunting Guise,True,765,1600,3136
+840,"{u'FlatArmorMod': 25.0, u'FlatMagicDamageMod': 20.0}",Seeker's Armguard,True,465,1200,3191
+1750,"{u'FlatSpellBlockMod': 20.0, u'FlatHPPoolMod': 400.0}",Locket of the Iron Solari,True,200,2500,3190
+0,{},Total Biscuit of Rejuvenation,False,0,0,2009
+0,{},Warding Totem (Trinket),True,0,0,3340
+2100,{},Perfect Hex Core,True,1000,3000,3198

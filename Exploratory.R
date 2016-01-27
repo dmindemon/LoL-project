@@ -1,4 +1,4 @@
-data <- read.csv('Champions.csv')
+data <- read.csv('champions.csv')
 library(ggplot2)
 library(Rmisc)
 

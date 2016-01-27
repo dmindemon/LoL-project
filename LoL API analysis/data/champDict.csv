@@ -1,0 +1,128 @@
+key,title,name,id
+FiddleSticks,the Harbinger of Doom,Fiddlesticks,9
+Khazix,the Voidreaver,Kha'Zix,121
+Irelia,the Will of the Blades,Irelia,39
+Alistar,the Minotaur,Alistar,12
+Udyr,the Spirit Walker,Udyr,77
+Tryndamere,the Barbarian King,Tryndamere,23
+Karthus,the Deathsinger,Karthus,30
+Vi,the Piltover Enforcer,Vi,254
+Jax,Grandmaster at Arms,Jax,24
+Cassiopeia,the Serpent's Embrace,Cassiopeia,69
+Darius,the Hand of Noxus,Darius,122
+Swain,the Master Tactician,Swain,50
+Urgot,the Headsman's Pride,Urgot,6
+Zyra,Rise of the Thorns,Zyra,143
+Rammus,the Armordillo,Rammus,33
+Leblanc,the Deceiver,LeBlanc,7
+Kassadin,the Void Walker,Kassadin,38
+Azir,the Emperor of the Sands,Azir,268
+Veigar,the Tiny Master of Evil,Veigar,45
+Caitlyn,the Sheriff of Piltover,Caitlyn,51
+Aatrox,the Darkin Blade,Aatrox,266
+Fiora,the Grand Duelist,Fiora,114
+Tristana,the Yordle Gunner,Tristana,18
+Gangplank,the Saltwater Scourge,Gangplank,41
+Taric,the Gem Knight,Taric,44
+Soraka,the Starchild,Soraka,16
+TahmKench,the River King,Tahm Kench,223
+Kindred,The Eternal Hunters,Kindred,203
+Shaco,the Demon Jester,Shaco,35
+Karma,the Enlightened One,Karma,43
+Volibear,the Thunder's Roar,Volibear,106
+Rengar,the Pridestalker,Rengar,107
+Kalista,the Spear of Vengeance,Kalista,429
+Renekton,the Butcher of the Sands,Renekton,58
+Elise,the Spider Queen,Elise,60
+Draven,the Glorious Executioner,Draven,119
+Shyvana,the Half-Dragon,Shyvana,102
+Maokai,the Twisted Treant,Maokai,57
+Nunu,the Yeti Rider,Nunu,20
+Kayle,The Judicator,Kayle,10
+RekSai,the Void Burrower,Rek'Sai,421
+Gnar,the Missing Link,Gnar,150
+Nasus,the Curator of the Sands,Nasus,75
+Ashe,the Frost Archer,Ashe,22
+LeeSin,the Blind Monk,Lee Sin,64
+Katarina,the Sinister Blade,Katarina,55
+Quinn,Demacia's Wings,Quinn,133
+Graves,the Outlaw,Graves,104
+Talon,the Blade's Shadow,Talon,91
+Vladimir,the Crimson Reaper,Vladimir,8
+Twitch,the Plague Rat,Twitch,29
+Blitzcrank,the Great Steam Golem,Blitzcrank,53
+Evelynn,the Widowmaker,Evelynn,28
+Nami,the Tidecaller,Nami,267
+Malphite,Shard of the Monolith,Malphite,54
+Zed,the Master of Shadows,Zed,238
+Anivia,the Cryophoenix,Anivia,34
+Thresh,the Chain Warden,Thresh,412
+Kennen,the Heart of the Tempest,Kennen,85
+Lissandra,the Ice Witch,Lissandra,127
+Amumu,the Sad Mummy,Amumu,32
+Galio,the Sentinel's Sorrow,Galio,3
+Sivir,the Battle Mistress,Sivir,15
+Zac,the Secret Weapon,Zac,154
+Bard,the Wandering Caretaker,Bard,432
+Olaf,the Berserker,Olaf,2
+KogMaw,the Mouth of the Abyss,Kog'Maw,96
+Orianna,the Lady of Clockwork,Orianna,61
+Syndra,the Dark Sovereign,Syndra,134
+Skarner,the Crystal Vanguard,Skarner,72
+MasterYi,the Wuju Bladesman,Master Yi,11
+Corki,the Daring Bombardier,Corki,42
+Ezreal,the Prodigal Explorer,Ezreal,81
+Ryze,the Rogue Mage,Ryze,13
+Ziggs,the Hexplosives Expert,Ziggs,115
+Yorick,the Gravedigger,Yorick,83
+Akali,the Fist of Shadow,Akali,84
+Gragas,the Rabble Rouser,Gragas,79
+Velkoz,the Eye of the Void,Vel'Koz,161
+Annie,the Dark Child,Annie,1
+Vayne,the Night Hunter,Vayne,67
+Teemo,the Swift Scout,Teemo,17
+Zilean,the Chronokeeper,Zilean,26
+XinZhao,the Seneschal of Demacia,Xin Zhao,5
+Malzahar,the Prophet of the Void,Malzahar,90
+Jinx,the Loose Cannon,Jinx,222
+Singed,the Mad Chemist,Singed,27
+Morgana,Fallen Angel,Morgana,25
+Diana,Scorn of the Moon,Diana,131
+Varus,the Arrow of Retribution,Varus,110
+Braum,the Heart of the Freljord,Braum,201
+Nautilus,the Titan of the Depths,Nautilus,111
+Sona,Maven of the Strings,Sona,37
+Jayce,the Defender of Tomorrow,Jayce,126
+Xerath,the Magus Ascendant,Xerath,101
+Garen,The Might of Demacia,Garen,86
+Sion,The Undead Juggernaut,Sion,14
+Hecarim,the Shadow of War,Hecarim,120
+Shen,Eye of Twilight,Shen,98
+Poppy,the Iron Ambassador,Poppy,78
+Heimerdinger,the Revered Inventor,Heimerdinger,74
+Riven,the Exile,Riven,92
+Rumble,the Mechanized Menace,Rumble,68
+Fizz,the Tidal Trickster,Fizz,105
+TwistedFate,the Card Master,Twisted Fate,4
+DrMundo,the Madman of Zaun,Dr. Mundo,36
+Lulu,the Fae Sorceress,Lulu,117
+Leona,the Radiant Dawn,Leona,89
+Chogath,the Terror of the Void,Cho'Gath,31
+Pantheon,the Artisan of War,Pantheon,80
+Lux,the Lady of Luminosity,Lux,99
+Yasuo,the Unforgiven,Yasuo,157
+Lucian,the Purifier,Lucian,236
+Nocturne,the Eternal Nightmare,Nocturne,56
+MissFortune,the Bounty Hunter,Miss Fortune,21
+Janna,the Storm's Fury,Janna,40
+Sejuani,the Winter's Wrath,Sejuani,113
+Ahri,the Nine-Tailed Fox,Ahri,103
+Nidalee,the Bestial Huntress,Nidalee,76
+Mordekaiser,the Iron Revenant,Mordekaiser,82
+Trundle,the Troll King,Trundle,48
+Viktor,the Machine Herald,Viktor,112
+JarvanIV,the Exemplar of Demacia,Jarvan IV,59
+Ekko,the Boy Who Shattered Time,Ekko,245
+Warwick,the Blood Hunter,Warwick,19
+MonkeyKing,the Monkey King,Wukong,62
+Brand,the Burning Vengeance,Brand,63

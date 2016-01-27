@@ -16,4 +16,4 @@ for (i in 1:251){
 table = data.frame(id=seq(1:126))
 table$name = names
 table
-write.csv(table, file="Champions_names.csv")
+write.csv(table, file="champions_names.csv")

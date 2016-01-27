@@ -1,0 +1,68 @@
+"","name","id","total","AttackSpeed","AttackDamage","CriticalStrikeChance","Health","LifeSteal","LifeonHit","Mana","CooldownReduction","Armor","BaseHealthRegen","MagicResist","MagicDamageonHit","AbilityPower","ManaRegen","Mana.1","MovementSpeed","BaseAttackDamage","DamagetakenfromCriticalStrikes","FlatArmorPenetration","passive","active","PercentArmorPenetration"
+"1","Dagger","1042","300","0.12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","Long Sword","1036","350",NA,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Brawler's Gloves","1051","400",NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Doran's Blade (Showdown)","1075","440",NA,"7",NA,"70","0.03",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","Cull","1083","450",NA,"5",NA,NA,NA,"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","Doran's Blade","1055","450",NA,"8",NA,"80","0.03",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Madred's Razors","3106","600","0.15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","Kircheis Shard","2015","750","0.15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"energized: 12 per attack, 30 magic damage.",NA,NA
+"9","Executioner's Calling","3123","800",NA,"15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","Cloak of Agility","1018","800",NA,NA,"0.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","Pickaxe","1037","875",NA,"25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","Vampiric Scepter","1053","900",NA,"15",NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","Prospector's Blade","1062","950","0.15","16",NA,"150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","Giant Slayer","3034","1000",NA,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","Recurve Bow","1043","1000","0.25","15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","Sheen","3057","1050",NA,NA,NA,NA,NA,NA,"250","0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"spellblade: 1.00 attack damage, 1.5 cd.",NA,NA
+"17","Serrated Dirk","3134","1100",NA,"20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"10",NA,NA,NA
+"18","Caulfield's Warhammer","3133","1100",NA,"25",NA,NA,NA,NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","Berserker's Greaves","3006","1100","0.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","Warden's Mail","3082","1100",NA,NA,NA,NA,NA,NA,NA,NA,"40",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Jaurim's Fist","3052","1200",NA,"15",NA,"150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","Wicked Hatchet","3122","1200",NA,"20","0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"bleed: critical - 0.6 attack damage as magic damage, over 3 seconds.",NA,NA
+"23","Zeal","3086","1200","0.15",NA,"0.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","Stinger","3101","1200","0.5",NA,NA,NA,NA,NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","Tiamat","3077","1250",NA,"30",NA,NA,NA,NA,NA,NA,NA,"0.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active - Crescent:</active> Deals 60% to 100% of total Attack Damage as physical damage to nearby enemy units (enemies closest to the target take the most damage) (10 second cooldown).",NA
+"26","Phage","3044","1250",NA,"15",NA,"200",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","Last Whisper","3035","1300",NA,"25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0.3"
+"28","Hexdrinker","3155","1300",NA,"20",NA,NA,NA,NA,NA,NA,NA,NA,"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","B. F. Sword","1038","1300",NA,"40",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","Enchantment: Devourer","3674","1400","0.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","Enchantment: Warrior","3671","1575",NA,"60",NA,NA,NA,NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","Bilgewater Cutlass","3144","1650",NA,"25",NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active:</active> Deals 100 magic damage and slows the target champion's Movement Speed by 25% for 2 seconds (90 second cooldown).",NA
+"34","Ardent Censer","3504","2200",NA,NA,NA,NA,NA,NA,NA,"0.1",NA,NA,NA,NA,"40","1",NA,NA,NA,NA,NA,NA,NA,NA
+"35","The Lightbringer","3185","2350",NA,"30","0.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"bleed: critical - 0.9 attack damage as magic damage, over 3 seconds.","UNIQUE Active - Hunter's Sight:</active> A stealth-detecting mist grants vision in the target area for 5 seconds, revealing enemy champions that enter for 3 seconds (60 second cooldown).",NA
+"36","Zeke's Harbinger","3050","2350",NA,NA,NA,NA,NA,NA,"250","0.1","30",NA,NA,NA,"50",NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active - Conduit:</active> Bind to target ally (60 second cooldown).<br><unique>UNIQUE Passive:</unique> When within 1000 units of each other, you and your ally generate Charges. Attacking or casting spells generates extra Charges. At 100 Charges, causing damage consumes them, increasing your and your ally's Ability Power by 20% and Critical Strike Chance by 50% for 8 seconds. ",NA
+"39","Sanguine Blade","3181","2400",NA,"45",NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"stack: 6 attack damage, 0.01 life steal, 5 times.",NA,NA
+"41","Rapid Firecannon","3094","2500","0.3",NA,"0.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0.08",NA,NA,NA,"energized: 12 per attack, 50-200 magic damage.",NA,NA
+"42","Runaan's Hurricane","3085","2500","0.4","15","0.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0.05",NA,NA,NA,NA,NA,NA
+"43","Statikk Shiv","3087","2500","0.35",NA,"0.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0.05",NA,NA,NA,"energized: 12 per attack, 50-150 magic damage",NA,NA
+"44","Entropy","3184","2600",NA,"55",NA,"275",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active:</active> For the next 5 seconds, basic attacks reduce the target's Movement Speed by 30% and deal 80 true damage over 2.5 seconds on hit (60 second cooldown).",NA
+"45","Phantom Dancer","3046","2700","0.4",NA,"0.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","Iceborn Gauntlet","3025","2700",NA,NA,NA,NA,NA,NA,"500","0.2","65",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"spellblade: 1.25 attack damage, 1.5 cd.",NA,NA
+"47","Dervish Blade","3137","2700","0.5",NA,NA,NA,NA,NA,NA,"0.1",NA,NA,"45",NA,NA,NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active - Quicksilver:</active> Removes all debuffs, and if champion is melee, also grants +50% bonus Movement Speed for 1 second (90 second cooldown).",NA
+"48","Mortal Reminder","3033","2700",NA,"40",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0.4"
+"49","Lord Dominik's Regards","3036","2700",NA,"40",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","Sterak's Gage","3053","2700",NA,NA,NA,"500",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0.25",NA,NA,NA,NA,NA
+"51","Wit's End","3091","2800","0.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,"40","40",NA,NA,NA,NA,NA,NA,NA,"magicresist: -25",NA,NA
+"52","Frozen Heart","3110","2800",NA,NA,NA,NA,NA,NA,"400","0.2","90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Randuin's Omen","3143","3000",NA,NA,NA,"450",NA,NA,NA,NA,"60",NA,NA,NA,NA,NA,NA,NA,NA,"-0.1",NA,NA,"UNIQUE Active:</active> Slows the Movement Speed of nearby enemy units by 35% for 4 seconds (60 second cooldown).",NA
+"54","Nashor's Tooth","3115","3000","0.5",NA,NA,NA,NA,NA,NA,"0.2",NA,NA,NA,"15","80",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","Frozen Mallet","3022","3100",NA,"40",NA,"650",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","Youmuu's Ghostblade","3142","3200",NA,"65",NA,NA,NA,NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"20",NA,"UNIQUE Active:</active> Grants +20% Movement Speed and +40% Attack Speed for 6 seconds (45 second cooldown).<br><br><rules>(Armor Penetration: Physical damage is increased by ignoring an amount of the target's Armor equal to Armor Penetration.)</rules>",NA
+"57","Lich Bane","3100","3200",NA,NA,NA,NA,NA,NA,"250","0.1",NA,NA,NA,NA,"80",NA,NA,"0.07",NA,NA,NA,"spellblade: 0.75 attack damage, 1.5 cd, 0.50 ability.",NA,NA
+"58","Maw of Malmortius","3156","3250",NA,"55",NA,NA,NA,NA,NA,NA,NA,NA,"50",NA,NA,NA,NA,NA,NA,NA,"10",NA,NA,NA
+"59","Hextech Gunblade","3146","3400",NA,"40",NA,NA,"0.15",NA,NA,NA,NA,NA,NA,NA,"80",NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active:</active> Deals 150 (+40% of Ability Power) magic damage and slows the target champion's Movement Speed by 40% for 2 seconds (30 second cooldown).",NA
+"60","Death's Dance","3812","3400",NA,"65",NA,NA,"0.12",NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","Blade of the Ruined King","3153","3400","0.4","25",NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active:</active> Deals 10% of target champion's maximum Health (min. 100) as physical damage, heals for the same amount, and steals 25% of the target's Movement Speed for 3 seconds (90 second cooldown).",NA
+"62","The Black Cleaver","3071","3500",NA,"55",NA,"300",NA,NA,NA,"0.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"0.3"
+"63","Infinity Edge","3031","3600",NA,"65","0.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"infinity: 0.5 bonus critical damage.",NA,NA
+"64","Titanic Hydra","3748","3600",NA,"50",NA,"450",NA,NA,NA,NA,NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active - Crescent:</active> Cleave damage to all targets is increased to 40 + 10% of your maximum health as bonus physical damage  in a larger cone for your next basic attack (20 second cooldown).<br><br><i>(Unique Passives with the same name don't stack.)</i>",NA
+"65","Essence Reaver","3508","3600",NA,"65","0.2",NA,NA,NA,NA,"0.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cooldown: 0.3 of critical chance as cd reduction.",NA,NA
+"66","Lord Van Damm's Pillager","3104","3600",NA,"65","0.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"bleed: critical - 1.5 attack damage as magic damage, over 3 seconds.",NA,NA
+"67","Ravenous Hydra","3074","3600",NA,"75",NA,NA,"0.12",NA,NA,NA,NA,"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active - Crescent:</active> Deals 60% to 100% of total Attack Damage as physical damage to nearby enemy units (closest enemies take the most damage) (10 second cooldown).",NA
+"68","Mercurial Scimitar","3139","3700",NA,"75",NA,NA,"0.1",NA,NA,NA,NA,NA,"35",NA,NA,NA,NA,NA,NA,NA,NA,NA,"UNIQUE Active - Quicksilver:</active> Removes all debuffs and also grants +50% bonus Movement Speed for 1 second (90 second cooldown).",NA
+"69","The Bloodthirster","3072","3700",NA,"75",NA,NA,"0.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","Trinity Force","3078","3800","0.15","25","0.2","250",NA,NA,"250","0.1",NA,NA,NA,NA,NA,NA,NA,"0.05",NA,NA,NA,"spellblade: 2.00 attack damage, 1.5 cd. ",NA,NA
+"671","None","0","0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
