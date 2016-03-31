@@ -2,6 +2,7 @@ import RiotConsts as Consts
 import requests
 
 class RiotAPI(object):
+    # Set API key to the url
     def __init__(self, api_key):
         self.api_key = api_key
 
@@ -58,3 +59,16 @@ class RiotAPI(object):
         api_url = Consts.URL['content'].format(
             version = Consts.API_VERSIONS['champion_get'])
         return self.champ_request(api_url, type)
+
+    def summ_request(self, id):
+        # Making KEY for request
+        key = {'api_key' : self.api_key}
+        # Making URL for request
+        url_suff = Consts.URL['content'].format(
+            version = Consts.API_VERSIONS['summoner'])+str(id)
+        url = Consts.URL['base'].format(url=url_suff)
+        # Now we can request
+        response = requests.get(url, key)
+        print(response.url)
+        return response.json()
+

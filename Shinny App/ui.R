@@ -1,3 +1,6 @@
+library(shiny)
+library(plotly)
+library(ggplot2)
 
 shinyUI(fluidPage(theme=shinytheme('united'),
     fixedPanel(height=730, width=1250, top=0,left=0,

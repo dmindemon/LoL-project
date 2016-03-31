@@ -1,5 +1,0 @@
-## Web Scraping
-
-- "Get name.R" gets names of champion from website, to build the "Champions_names.csv". 
-- "Scraping.R" gets the infromation of champions, and built the "champions.csv", which is the final data set.
-- "Exploratory.R" did some simple exploratory analysis, which generated two plots.

@@ -46,4 +46,4 @@ for(i in 1:nrow(data)){
 
 data$Attack_spd.level_percent = as.numeric(sub('%','',data$Attack_spd.level_percent))/100
 
-write.csv(data, file="Champions.csv")
+write.csv(data, file="champions.csv")
