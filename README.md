@@ -1,4 +1,7 @@
-# LoL-project
+## LoL-project
+Final web application url:
+https://dmindemon.shinyapps.io/LoL_DPS_Simulator
+
 ## Shinny App
 This folder contains code building shinny application, by using data from API and web scraping.
 
